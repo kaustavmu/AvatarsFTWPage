@@ -19,3 +19,32 @@ $(document).ready(function() {
     bulmaSlider.attach();
 
 })
+
+setTimeout(function () {
+	console.log('bruh')
+	window.scrollTo(0, 0);
+},340);
+setTimeout(function () {
+	console.log('bruh')
+	window.scrollTo(0, 0);
+},345);
+setTimeout(function () {
+	console.log('bruh')
+	window.scrollTo(0, 0);
+},350);
+setTimeout(function () {
+	console.log('bruh')
+	window.scrollTo(0, 0);
+},355);
+setTimeout(function () {
+	console.log('bruh')
+	window.scrollTo(0, 0);
+},360);
+setTimeout(function () {
+	console.log('bruh')
+	window.scrollTo(0, 0);
+},365);
+setTimeout(function () {
+	console.log('bruh')
+	window.scrollTo(0, 0);
+},370);
