@@ -125,6 +125,10 @@ body {
   margin: 0;
 }
 
+.row {
+  display: flex;
+}
+
 .slider-pagination .slider-page {
   background: #000000;
 }
